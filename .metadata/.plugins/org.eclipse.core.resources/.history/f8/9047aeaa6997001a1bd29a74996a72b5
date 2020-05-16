@@ -1,0 +1,5 @@
+package com.wolken.controller;
+
+public class StudentController {
+
+}
